@@ -1,11 +1,28 @@
 [ISNAUTOITSTUDIO]
-name=SoundBoard
 mainfile=SoundBoard.au3
+compile_exename=SoundBoard
+name=SoundBoard
+date=17.06.2016
 author=BetaLeaf
-time=0
-date=30.04.2016
-comment=
-studioversion=1.01
-version=0.2
-projectopened=1
-lastusedfiles=\SoundBoard.ini|\SoundBoard.au3|||||||||
+comment=I'm GUI Xandy
+studioversion=1.02
+version=1.0
+time=79211105
+projectopened=5
+use_changelog_manager=true
+lastusedfiles=\SoundBoard.au3||||||||||
+opened=
+lastopendate=21.06.2016 13:51
+opened_tabs=%projectdir%\SoundBoard.au3|
+[ISNPROJECT_CHANGELOGDATA]
+items=2006201617140391|2106201609345423|
+text[2006201617140391]=Remove Button code all GUI controls should work.[BREAK]Still needs a save Ini routine.
+editor[2006201617140391]=Joshua
+time[2006201617140391]=56709559
+date[2006201617140391]=2016/06/20
+version[2006201617140391]=1.0
+text[2106201609345423]=Drag drop folders
+editor[2106201609345423]=Joshua
+time[2106201609345423]=5038260
+date[2106201609345423]=2016/06/21
+version[2106201609345423]=1.0
